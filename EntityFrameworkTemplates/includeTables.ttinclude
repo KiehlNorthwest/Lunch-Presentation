@@ -1,0 +1,27 @@
+<#
+	//These are tables that would be excluded from the automatic navigation property creation
+	string[] _tablesWithUniquePks = new string[] {
+
+	};
+	string[] includedDynamicTables = new string[] {
+		"EssTaxWageReport",
+		"EssWageImport",
+		"EssWageRecord",
+		"UserEmployerAccess",
+		"Notification",
+		"TermsOfService",
+		"TermsOfServiceTermParagraph",
+		"TermParagraph",
+		"UserNotification",
+		"UserPhone",
+		"UserAddress",
+		"User",
+		"UserTermsOfService",
+		"UniqueUserKey",
+		"ExternalApiStatus"
+	};
+
+	string[] includeStaticTables = new string[] {
+		
+	};
+#>
