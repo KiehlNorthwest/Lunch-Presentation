@@ -19,10 +19,32 @@ We have a company Github, it would be good to use it to capture architectural pa
 
 Discussion:
 Do you carry code from one project to the next?
+Marty - Web caching, problems and solutions
+jake - batch files to run sql scripts, technical specs: templates, requirements
+Barbara - EVERYTHING
+Ian - Templates 
+Look at privacy rules for the state
+
 What are some code patterns that you reuse between projects?
+visual studio solutions
+javascript libraries and functions
+captcha -not crap
+docusign and e-signature - module
+SAW integration
+extension methods
+build list - checklist for project setup, naming conventions, todo list
+onboarding tool list
+coding practices, naming conventions, best practices
+
 Would you consider a company repository ‘more trusted’ than other sources?
+ Person who developed it is available - company history
+ See the history
 Would you post code to the company?
 Can we post things publically, or would we need private repositories?
+
+Jake wants;
+If you post something - use training time to put things up on Github
+Lunch Presentations
 
 Things to store:
 Templates (code and document)
